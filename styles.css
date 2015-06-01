@@ -1,0 +1,45 @@
+#quote-box {
+	min-height: 50px;
+	background-color: lightblue;
+	margin: auto;
+	margin-top: 50px;
+	width: 400px;
+}
+
+#get-quote {
+	padding: 5px;
+	border-radius: 5%;
+	margin: auto;
+	margin-top: 45px;
+	width: 100px;
+	cursor: pointer;
+	background-color: white;
+	color: darkblue;
+	border: 1px solid darkblue;
+	display: block;
+
+}
+
+#get-quote:hover {
+	color: white;
+	background-color: darkblue;
+}
+
+h1 {
+	font-family: 'Happy Monkey', arial;
+	text-align: center;
+	color: blue;
+	font-size: 48px;
+}
+
+#quote-box {
+	background-color: white;
+	box-shadow: 10px 16px 4px darkblue;
+	text-align: center;
+	font-size: 18px;
+	padding: 8px;
+}
+
+body {
+	background: url('confectionary.png');
+}
